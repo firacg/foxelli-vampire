@@ -8,7 +8,7 @@ Includes character and expression sheets, environment studies, props and staging
 
 WAN 3.0 was chosen for the project from the outset. This is a work-in-progress presentation, not the final submitted episode. S14, S20 and S37 still require a further pass.
 
-Display previews are optimized for the web. PNG download links preserve the original selected files. The full English production pack is available from the release download linked on the page.
+Display previews are optimized for the web. PNG download links preserve the original selected files. The full production ZIP is not published; this repository hosts the presentation website only.
 
 ## Hosting
 
