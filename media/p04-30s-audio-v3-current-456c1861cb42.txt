@@ -1,0 +1,13 @@
+DURATION 30 SECONDS.
+A single vertical 9:16 photorealistic live-action film sequence with synchronized audible English dialogue and environmental sound. Generate the spoken audio, not merely mouth movement. Speak EVERY quoted line exactly, in the stated order and time window. One speaker at a time. Preserve voice identity across shots: JUNO is a young adult woman, natural warm mid-register, alert with dry wit; RONAN is a young adult man, low soft slightly breathless voice; CELESTE is a mature woman, controlled resonant authority. Natural pauses, intelligible words, restrained live acting. On-camera dialogue must synchronize to the visible speaker's lips. Juno V.O. is a separate audible inner narration in her same voice, with NO corresponding lip movement. Guard radio is an audible off-screen filtered radio voice; the visible guard does not lip-sync it. Dialogue is the foreground mix, ambience is quieter. No music masking speech. Do not omit or paraphrase quoted words. No invented words. NO WRITTEN TEXT anywhere: no subtitles, captions, shot IDs, timecodes, labels, logos, contact sheets or borders. The timeline below is a direction for the generator and must never appear in the picture. Use only the supplied CLEAN image files as start/end frames, never the storyboard page or a Figma card screenshot. Preserve approved faces, clothing, room geometry and props. No accelerated acting, morphing, frantic extra cuts or camera orbit. Quoted words are SPOKEN AUDIO, never visible typography.
+
+VISUAL ACTION AND CAMERA:
+Guard has left. Juno emerges and checks doorway; Ronan stays restrained, warns without pleading. She takes a step toward exit, stops, looks back and chooses to help. ONLY NOW the ruby goes securely into an INNER DRESS POCKET and stays invisible afterward. She returns to RIGHT ankle. Use close top-down inserts instead of distorted foot-end wide shot: cuff physically around ankle, normal skin continues above/below; chain has single plate bolted to exposed rigid wood floor with velvet cut back around it. Lid is one rigid removable panel placed safely aside, not warped. No ankle release yet. Quiet genuine decision, no glamour posing.
+
+EXACT AUDIBLE SCRIPT — DO NOT RENDER AS WRITING:
+1-3.6s | RONAN: "You should go. They’ll be back."
+5-8s | JUNO: "You want me to leave you here?"
+9-15s | RONAN: "I don’t know you. I’m not asking you to get caught because of me."
+16-21.5s | JUNO (V.O.): "I didn’t even know his name. But I couldn’t leave him here."
+23-26.5s | JUNO: "Can you walk if I get this off?"
+27-29s | RONAN: "Yeah. I think so."

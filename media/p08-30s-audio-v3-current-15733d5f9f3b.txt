@@ -1,0 +1,15 @@
+DURATION 30 SECONDS.
+A single vertical 9:16 photorealistic live-action film sequence with synchronized audible English dialogue and environmental sound. Generate the spoken audio, not merely mouth movement. Speak EVERY quoted line exactly, in the stated order and time window. One speaker at a time. Preserve voice identity across shots: JUNO is a young adult woman, natural warm mid-register, alert with dry wit; RONAN is a young adult man, low soft slightly breathless voice; CELESTE is a mature woman, controlled resonant authority. Natural pauses, intelligible words, restrained live acting. On-camera dialogue must synchronize to the visible speaker's lips. Juno V.O. is a separate audible inner narration in her same voice, with NO corresponding lip movement. Guard radio is an audible off-screen filtered radio voice; the visible guard does not lip-sync it. Dialogue is the foreground mix, ambience is quieter. No music masking speech. Do not omit or paraphrase quoted words. No invented words. NO WRITTEN TEXT anywhere: no subtitles, captions, shot IDs, timecodes, labels, logos, contact sheets or borders. The timeline below is a direction for the generator and must never appear in the picture. Use only the supplied CLEAN image files as start/end frames, never the storyboard page or a Figma card screenshot. Preserve approved faces, clothing, room geometry and props. No accelerated acting, morphing, frantic extra cuts or camera orbit. Quoted words are SPOKEN AUDIO, never visible typography.
+
+VISUAL ACTION AND CAMERA:
+0-4.5s: hood-mounted windshield two-shot; Ronan passenger IMAGE LEFT, Juno driver IMAGE RIGHT, wheel in front of her only. Exact name exchange with visible lip sync. 4.5-15.3s: Juno audible VO over driver closeup and brief night road insert, neither mouths VO. 15.3-16.2s: collar red inset flashes. 16.2-21s: she checks collar/road, he turns to rear window and warns. 21-27.2s: separate speakers for question/practical answer; no cut that truncates speech. 27.2-30s: rear exterior chase, CAMERA BEHIND pursuing BMW; Juno Audi AHEAD, both viewed from rear traveling same direction, white pursuing headlights only in rear-view mirror. No seat swap or false wheel before Ronan. Use dedicated S46 10s and S48 6s patch prompts when preserving successful old clip portions; don't squeeze dialogue into obsolete 5s slot.
+
+EXACT AUDIBLE SCRIPT — DO NOT RENDER AS WRITING:
+1-1.7s | JUNO: "Ronan?"
+2-2.7s | RONAN: "Yeah."
+3-3.8s | JUNO: "Juno."
+4.5-15.3s | JUNO (V.O.): "By then, I had a vampire in my passenger seat and Celeste Armand coming after us. Stealing the stone was starting to feel like the easy part."
+16.2-18s | JUNO: "What does that mean?"
+18.4-21s | RONAN: "They’re close enough to track it."
+21.5-23.2s | JUNO: "Can we lose them?"
+23.6-27.2s | RONAN: "Get enough distance and they lose the signal."

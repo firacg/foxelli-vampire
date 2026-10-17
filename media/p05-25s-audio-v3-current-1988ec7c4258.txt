@@ -1,0 +1,13 @@
+DURATION 25 SECONDS.
+A single vertical 9:16 photorealistic live-action film sequence with synchronized audible English dialogue and environmental sound. Generate the spoken audio, not merely mouth movement. Speak EVERY quoted line exactly, in the stated order and time window. One speaker at a time. Preserve voice identity across shots: JUNO is a young adult woman, natural warm mid-register, alert with dry wit; RONAN is a young adult man, low soft slightly breathless voice; CELESTE is a mature woman, controlled resonant authority. Natural pauses, intelligible words, restrained live acting. On-camera dialogue must synchronize to the visible speaker's lips. Juno V.O. is a separate audible inner narration in her same voice, with NO corresponding lip movement. Guard radio is an audible off-screen filtered radio voice; the visible guard does not lip-sync it. Dialogue is the foreground mix, ambience is quieter. No music masking speech. Do not omit or paraphrase quoted words. No invented words. NO WRITTEN TEXT anywhere: no subtitles, captions, shot IDs, timecodes, labels, logos, contact sheets or borders. The timeline below is a direction for the generator and must never appear in the picture. Use only the supplied CLEAN image files as start/end frames, never the storyboard page or a Figma card screenshot. Preserve approved faces, clothing, room geometry and props. No accelerated acting, morphing, frantic extra cuts or camera orbit. Quoted words are SPOKEN AUDIO, never visible typography.
+
+VISUAL ACTION AND CAMERA:
+0-7s: top-down closeup of Juno's RIGHT hand working lockpick in single closed RIGHT ankle cuff; LEFT hand stabilizes. Same cuff/chain/bolted exposed-wood anchor in every shot. 7-9s: click; cuff opens as ONE articulated mechanism with TWO halves STILL CONNECTED BY ONE HINGE, gap only at released latch. Right ankle clearly free; cuff/chain stay in coffin. Do not split prop into unrelated floating halves. Collar STAYS locked at neck. 9-13s: Ronan rises too quickly, knee buckles; Juno braces and catches his weight. 13-21s: distinct camera angle/scale, he notices cut and turns away from her injured hand/neck, no smile toward blood. 22-25s: URGENT supported escape; he stoops and stumbles, she bears weight through raised supporting shoulder and arm around waist, both lean to route. No calm upright stroll or athletic sprint. High closed black gown back as character master; both ankles free, ruby pocketed.
+
+EXACT AUDIBLE SCRIPT — DO NOT RENDER AS WRITING:
+1-3.5s | RONAN: "How long does that take?"
+4-6.5s | JUNO: "Usually? Less time than this."
+8-8.8s | JUNO: "There."
+13-17.5s | JUNO: "You’re really trying not to bite me, aren’t you?"
+18.5-20.8s | RONAN: "I’m doing my best."
+22-24s | JUNO: "Good. Keep doing that."
